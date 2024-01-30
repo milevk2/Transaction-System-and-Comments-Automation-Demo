@@ -1,0 +1,1 @@
+This is an oversimplified example site of how transaction processing system looks like. It was created for demo purposes of the comments automation tool. Only dummy generated data has been used.
